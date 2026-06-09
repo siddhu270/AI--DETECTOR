@@ -1,2 +1,2 @@
-# AI--DETECTOR
+# AI-DETECTOR
 AI image detection app
